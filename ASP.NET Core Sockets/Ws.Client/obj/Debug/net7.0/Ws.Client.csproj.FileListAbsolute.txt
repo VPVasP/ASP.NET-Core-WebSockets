@@ -1,0 +1,29 @@
+C:\Users\vasil\Desktop\C#\ASP.NET Core Sockets\Ws.Client\bin\Debug\net7.0\Ws.Client.exe
+C:\Users\vasil\Desktop\C#\ASP.NET Core Sockets\Ws.Client\bin\Debug\net7.0\Ws.Client.deps.json
+C:\Users\vasil\Desktop\C#\ASP.NET Core Sockets\Ws.Client\bin\Debug\net7.0\Ws.Client.runtimeconfig.json
+C:\Users\vasil\Desktop\C#\ASP.NET Core Sockets\Ws.Client\bin\Debug\net7.0\Ws.Client.dll
+C:\Users\vasil\Desktop\C#\ASP.NET Core Sockets\Ws.Client\bin\Debug\net7.0\Ws.Client.pdb
+C:\Users\vasil\Desktop\C#\ASP.NET Core Sockets\Ws.Client\obj\Debug\net7.0\Ws.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasil\Desktop\C#\ASP.NET Core Sockets\Ws.Client\obj\Debug\net7.0\Ws.Client.AssemblyInfoInputs.cache
+C:\Users\vasil\Desktop\C#\ASP.NET Core Sockets\Ws.Client\obj\Debug\net7.0\Ws.Client.AssemblyInfo.cs
+C:\Users\vasil\Desktop\C#\ASP.NET Core Sockets\Ws.Client\obj\Debug\net7.0\Ws.Client.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Desktop\C#\ASP.NET Core Sockets\Ws.Client\obj\Debug\net7.0\Ws.Client.dll
+C:\Users\vasil\Desktop\C#\ASP.NET Core Sockets\Ws.Client\obj\Debug\net7.0\refint\Ws.Client.dll
+C:\Users\vasil\Desktop\C#\ASP.NET Core Sockets\Ws.Client\obj\Debug\net7.0\Ws.Client.pdb
+C:\Users\vasil\Desktop\C#\ASP.NET Core Sockets\Ws.Client\obj\Debug\net7.0\Ws.Client.genruntimeconfig.cache
+C:\Users\vasil\Desktop\C#\ASP.NET Core Sockets\Ws.Client\obj\Debug\net7.0\ref\Ws.Client.dll
+C:\Users\vasil\Desktop\C#\ASP.NET CoreSocketsGitHub\ASP.NET CoreWebSockets\ASP.NET-Core-WebSockets\ASP.NET Core Sockets\Ws.Client\bin\Debug\net7.0\Ws.Client.exe
+C:\Users\vasil\Desktop\C#\ASP.NET CoreSocketsGitHub\ASP.NET CoreWebSockets\ASP.NET-Core-WebSockets\ASP.NET Core Sockets\Ws.Client\bin\Debug\net7.0\Ws.Client.deps.json
+C:\Users\vasil\Desktop\C#\ASP.NET CoreSocketsGitHub\ASP.NET CoreWebSockets\ASP.NET-Core-WebSockets\ASP.NET Core Sockets\Ws.Client\bin\Debug\net7.0\Ws.Client.runtimeconfig.json
+C:\Users\vasil\Desktop\C#\ASP.NET CoreSocketsGitHub\ASP.NET CoreWebSockets\ASP.NET-Core-WebSockets\ASP.NET Core Sockets\Ws.Client\bin\Debug\net7.0\Ws.Client.dll
+C:\Users\vasil\Desktop\C#\ASP.NET CoreSocketsGitHub\ASP.NET CoreWebSockets\ASP.NET-Core-WebSockets\ASP.NET Core Sockets\Ws.Client\bin\Debug\net7.0\Ws.Client.pdb
+C:\Users\vasil\Desktop\C#\ASP.NET CoreSocketsGitHub\ASP.NET CoreWebSockets\ASP.NET-Core-WebSockets\ASP.NET Core Sockets\Ws.Client\obj\Debug\net7.0\Ws.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasil\Desktop\C#\ASP.NET CoreSocketsGitHub\ASP.NET CoreWebSockets\ASP.NET-Core-WebSockets\ASP.NET Core Sockets\Ws.Client\obj\Debug\net7.0\Ws.Client.AssemblyInfoInputs.cache
+C:\Users\vasil\Desktop\C#\ASP.NET CoreSocketsGitHub\ASP.NET CoreWebSockets\ASP.NET-Core-WebSockets\ASP.NET Core Sockets\Ws.Client\obj\Debug\net7.0\Ws.Client.AssemblyInfo.cs
+C:\Users\vasil\Desktop\C#\ASP.NET CoreSocketsGitHub\ASP.NET CoreWebSockets\ASP.NET-Core-WebSockets\ASP.NET Core Sockets\Ws.Client\obj\Debug\net7.0\Ws.Client.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Desktop\C#\ASP.NET CoreSocketsGitHub\ASP.NET CoreWebSockets\ASP.NET-Core-WebSockets\ASP.NET Core Sockets\Ws.Client\obj\Debug\net7.0\Ws.Client.sourcelink.json
+C:\Users\vasil\Desktop\C#\ASP.NET CoreSocketsGitHub\ASP.NET CoreWebSockets\ASP.NET-Core-WebSockets\ASP.NET Core Sockets\Ws.Client\obj\Debug\net7.0\Ws.Client.dll
+C:\Users\vasil\Desktop\C#\ASP.NET CoreSocketsGitHub\ASP.NET CoreWebSockets\ASP.NET-Core-WebSockets\ASP.NET Core Sockets\Ws.Client\obj\Debug\net7.0\refint\Ws.Client.dll
+C:\Users\vasil\Desktop\C#\ASP.NET CoreSocketsGitHub\ASP.NET CoreWebSockets\ASP.NET-Core-WebSockets\ASP.NET Core Sockets\Ws.Client\obj\Debug\net7.0\Ws.Client.pdb
+C:\Users\vasil\Desktop\C#\ASP.NET CoreSocketsGitHub\ASP.NET CoreWebSockets\ASP.NET-Core-WebSockets\ASP.NET Core Sockets\Ws.Client\obj\Debug\net7.0\Ws.Client.genruntimeconfig.cache
+C:\Users\vasil\Desktop\C#\ASP.NET CoreSocketsGitHub\ASP.NET CoreWebSockets\ASP.NET-Core-WebSockets\ASP.NET Core Sockets\Ws.Client\obj\Debug\net7.0\ref\Ws.Client.dll

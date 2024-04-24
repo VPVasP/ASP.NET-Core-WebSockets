@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET Core WebSocket", "ASP.NET Core WebSocket.csproj", "{41870D66-642B-4341-8088-4841AB25A8D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ws.Client", "..\Ws.Client\Ws.Client.csproj", "{9AF1CB0C-6235-4AE4-B8BC-4A9B38E7BE20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41870D66-642B-4341-8088-4841AB25A8D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41870D66-642B-4341-8088-4841AB25A8D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41870D66-642B-4341-8088-4841AB25A8D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41870D66-642B-4341-8088-4841AB25A8D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AF1CB0C-6235-4AE4-B8BC-4A9B38E7BE20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF1CB0C-6235-4AE4-B8BC-4A9B38E7BE20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF1CB0C-6235-4AE4-B8BC-4A9B38E7BE20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF1CB0C-6235-4AE4-B8BC-4A9B38E7BE20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7FCA2BA-CA56-4E0F-86E6-7A0DD7ABC9DC}
+	EndGlobalSection
+EndGlobal
