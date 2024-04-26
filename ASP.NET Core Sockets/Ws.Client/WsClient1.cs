@@ -17,10 +17,10 @@ namespace ASP.NET_Core_WebSocket
             {
                 Uri serviceUri = new Uri("Ws://localhost:5221/send"); //uri for the websocket server
                 var cTs = new CancellationTokenSource();
-                cTs.CancelAfter(TimeSpan.FromSeconds(120));
+                cTs.CancelAfter(TimeSpan.FromSeconds(120)); //timeout for connection
                 try
                 {
-                    await client.ConnectAsync(serviceUri, cTs.Token);
+                    await client.ConnectAsync(serviceUri, cTs.Token); //connect to the websocket server
 
                     while (client.State == WebSocketState.Open)
                     {
@@ -37,25 +37,27 @@ namespace ASP.NET_Core_WebSocket
                             var responseBuffer = new byte[1024];
                             var offset = 0;
                             var packet = 1024;
-                            while (true)
+                            while (true) //receive messages from the server 
                             {
                                 ArraySegment<byte> byteReceived = new ArraySegment<byte>(responseBuffer, offset, packet);
                                 WebSocketReceiveResult response = await client.ReceiveAsync(byteReceived, cTs.Token);
                                 var responseMessage =Encoding.UTF8.GetString(responseBuffer, offset, response.Count);
-                                Console.WriteLine(responseMessage);
+                                Console.WriteLine(responseMessage); //display the response message
                                 if (response.EndOfMessage)
-                                    break;
+                                    break; //exit the loop if it is the end of the message
                             }
                         }
                         else
                         {
+                            //if the message is empty show it in the console
                             Console.WriteLine("The message is empty.");
                         }
                     }
                 }
-                catch (WebSocketException e)
+                catch (WebSocketException exception)
                 {
-                    Console.WriteLine(e.ToString());
+                    //handle any websocket exceptions here
+                    Console.WriteLine(exception.ToString());
                 }
             }
             Console.ReadLine();

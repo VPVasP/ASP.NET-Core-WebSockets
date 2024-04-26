@@ -1,6 +1,3 @@
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Hosting;
-
 namespace ASP.NET_Core_WebSocket
 {
     public class Program
@@ -10,10 +7,13 @@ namespace ASP.NET_Core_WebSocket
             CreateHostBuilder(args).Build().Run();
         }
 
+
+        //create a host builder with the default configurations
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
+                    //configures the webhost to user the server as the startup class
                     webBuilder.UseStartup<Server>();
                 });
     }
