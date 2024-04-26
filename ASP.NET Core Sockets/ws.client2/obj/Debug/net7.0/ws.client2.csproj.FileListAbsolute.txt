@@ -1,0 +1,15 @@
+C:\Users\vasil\Desktop\C#\ASP.NET CoreSocketsGitHub\ASP.NET CoreWebSockets\ASP.NET-Core-WebSockets\ASP.NET Core Sockets\ws.client2\bin\Debug\net7.0\ws.client2.exe
+C:\Users\vasil\Desktop\C#\ASP.NET CoreSocketsGitHub\ASP.NET CoreWebSockets\ASP.NET-Core-WebSockets\ASP.NET Core Sockets\ws.client2\bin\Debug\net7.0\ws.client2.deps.json
+C:\Users\vasil\Desktop\C#\ASP.NET CoreSocketsGitHub\ASP.NET CoreWebSockets\ASP.NET-Core-WebSockets\ASP.NET Core Sockets\ws.client2\bin\Debug\net7.0\ws.client2.runtimeconfig.json
+C:\Users\vasil\Desktop\C#\ASP.NET CoreSocketsGitHub\ASP.NET CoreWebSockets\ASP.NET-Core-WebSockets\ASP.NET Core Sockets\ws.client2\bin\Debug\net7.0\ws.client2.dll
+C:\Users\vasil\Desktop\C#\ASP.NET CoreSocketsGitHub\ASP.NET CoreWebSockets\ASP.NET-Core-WebSockets\ASP.NET Core Sockets\ws.client2\bin\Debug\net7.0\ws.client2.pdb
+C:\Users\vasil\Desktop\C#\ASP.NET CoreSocketsGitHub\ASP.NET CoreWebSockets\ASP.NET-Core-WebSockets\ASP.NET Core Sockets\ws.client2\obj\Debug\net7.0\ws.client2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasil\Desktop\C#\ASP.NET CoreSocketsGitHub\ASP.NET CoreWebSockets\ASP.NET-Core-WebSockets\ASP.NET Core Sockets\ws.client2\obj\Debug\net7.0\ws.client2.AssemblyInfoInputs.cache
+C:\Users\vasil\Desktop\C#\ASP.NET CoreSocketsGitHub\ASP.NET CoreWebSockets\ASP.NET-Core-WebSockets\ASP.NET Core Sockets\ws.client2\obj\Debug\net7.0\ws.client2.AssemblyInfo.cs
+C:\Users\vasil\Desktop\C#\ASP.NET CoreSocketsGitHub\ASP.NET CoreWebSockets\ASP.NET-Core-WebSockets\ASP.NET Core Sockets\ws.client2\obj\Debug\net7.0\ws.client2.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Desktop\C#\ASP.NET CoreSocketsGitHub\ASP.NET CoreWebSockets\ASP.NET-Core-WebSockets\ASP.NET Core Sockets\ws.client2\obj\Debug\net7.0\ws.client2.sourcelink.json
+C:\Users\vasil\Desktop\C#\ASP.NET CoreSocketsGitHub\ASP.NET CoreWebSockets\ASP.NET-Core-WebSockets\ASP.NET Core Sockets\ws.client2\obj\Debug\net7.0\ws.client2.dll
+C:\Users\vasil\Desktop\C#\ASP.NET CoreSocketsGitHub\ASP.NET CoreWebSockets\ASP.NET-Core-WebSockets\ASP.NET Core Sockets\ws.client2\obj\Debug\net7.0\refint\ws.client2.dll
+C:\Users\vasil\Desktop\C#\ASP.NET CoreSocketsGitHub\ASP.NET CoreWebSockets\ASP.NET-Core-WebSockets\ASP.NET Core Sockets\ws.client2\obj\Debug\net7.0\ws.client2.pdb
+C:\Users\vasil\Desktop\C#\ASP.NET CoreSocketsGitHub\ASP.NET CoreWebSockets\ASP.NET-Core-WebSockets\ASP.NET Core Sockets\ws.client2\obj\Debug\net7.0\ws.client2.genruntimeconfig.cache
+C:\Users\vasil\Desktop\C#\ASP.NET CoreSocketsGitHub\ASP.NET CoreWebSockets\ASP.NET-Core-WebSockets\ASP.NET Core Sockets\ws.client2\obj\Debug\net7.0\ref\ws.client2.dll

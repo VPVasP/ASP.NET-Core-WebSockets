@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP.NET Core WebSocket")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d055f77033243b59976e62b21fa37de38f0643b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f02996ec2bf50efaf405337e7482a65971e07f33")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP.NET Core WebSocket")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP.NET Core WebSocket")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

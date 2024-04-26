@@ -3,7 +3,7 @@ using System.Net;
 using System.Text;
 namespace ASP.NET_Core_WebSocket
 {
-    public class Startup
+    public class Server
     {
 
 
@@ -37,7 +37,7 @@ namespace ASP.NET_Core_WebSocket
         }
 
         private async Task Send(HttpContext context, WebSocket webSocket)
-        {
+        { 
             var buffer = new byte[1024 * 4];
             WebSocketReceiveResult result = await webSocket.ReceiveAsync(new ArraySegment<byte>(buffer), System.Threading.CancellationToken.None);
             if (result != null)

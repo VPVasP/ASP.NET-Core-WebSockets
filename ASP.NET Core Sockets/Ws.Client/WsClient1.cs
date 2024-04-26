@@ -5,16 +5,17 @@ using System.Text;
 
 namespace ASP.NET_Core_WebSocket
 {
-    class Program
+    class WsClient1
     {
         static async Task Main(string[] args)
         {
-            Console.WriteLine("Enter your name:");
-            string? userName = Console.ReadLine();
+            Console.WriteLine("WS.Client 1"); //Message saying the console name
+            Console.WriteLine("Enter your name:");//Ask the username
+            string? userName = Console.ReadLine();//Read the username
 
-            using (ClientWebSocket client = new ClientWebSocket())
+            using (ClientWebSocket client = new ClientWebSocket()) //create a websocket client
             {
-                Uri serviceUri = new Uri("Ws://localhost:5221/send");
+                Uri serviceUri = new Uri("Ws://localhost:5221/send"); //uri for the websocket server
                 var cTs = new CancellationTokenSource();
                 cTs.CancelAfter(TimeSpan.FromSeconds(120));
                 try

@@ -14,7 +14,7 @@ namespace ASP.NET_Core_WebSocket
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
-                    webBuilder.UseStartup<Startup>();
+                    webBuilder.UseStartup<Server>();
                 });
     }
 }
